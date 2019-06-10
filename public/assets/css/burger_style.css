@@ -1,0 +1,35 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: rebeccapurple;
+    color: white;
+    text-align: left;
+    box-sizing: 75%;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+h1 {
+    color: rebeccapurple;
+    font-style: italic;
+    font-family: Serif;
+}
+
+
+h4 {
+    color: rebeccapurple;
+    font-style: italic;
+    font-family:  Serif;
+}

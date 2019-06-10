@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../SMDA201902FSF4/01-Class-Content/14-handlebars/01-Activities/16-MvcExample/Unsolved/db/schema.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db/schema.sql" dialect="MySQL" />
+  </component>
+</project>
